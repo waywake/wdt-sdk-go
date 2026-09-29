@@ -1,0 +1,13 @@
+# Test artifacts
+*.out
+coverage.txt
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+
+# 官方文档页缓存(可通过 scripts/apidoc_scrape.py 重新抓取)
+scripts/data/pages/
